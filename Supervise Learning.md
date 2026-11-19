@@ -4,4 +4,4 @@
 ---
 ## REGRESSION
 ### Leanier model 线性模型
-线性回归模型：$Y = X \beta + \epsilon$
+线性回归模型：$'Y = X \beta + \epsilon'$
